@@ -1,0 +1,13 @@
+# ==============================================================================
+# HORSE HAVOC - Nano Production Dependencies (Ultra-Tight Disk Quota < 20MB venv)
+# ==============================================================================
+
+# Core 2D Game Engine & High-Performance Headless Rendering
+pygame-ce>=2.5.0
+
+# Network, Webhooks & Automated Social Dispatch (YouTube REST, TikTok v2, Instagram, Telegram)
+requests>=2.28.0
+python-dotenv>=1.0.0
+
+# Automated Scheduling Engine
+schedule>=1.2.0

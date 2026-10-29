@@ -1,0 +1,41 @@
+# ==============================================================================
+# HORSE HAVOC - Git Exclusion Rules & Zero-Leak Protection
+# ==============================================================================
+
+# Secrets & Credentials
+.env
+*.env
+token.json
+tiktok_token.json
+instagram_token.json
+client_secrets.json
+client_secret*.json
+tiktok_code_verifier.txt
+
+# Python & Virtual Environments
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+.pytest_cache/
+
+# Media, Logs & Archives
+*.mp4
+*.avi
+*.mov
+*.wav
+*.tar.gz
+*.zip
+*.log
+output/*
+!output/.gitkeep
+logs/*
+!logs/.gitkeep
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

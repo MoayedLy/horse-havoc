@@ -1,0 +1,3170 @@
+[
+  {
+    "id": "ronaldo",
+    "name": "Cristiano Ronaldo",
+    "short_name": "C. Ronaldo",
+    "initials": "CR7",
+    "group": "football",
+    "group_name": "Football Derby",
+    "quote": "SIUUU! 🐐",
+    "archetype": "Front Runner",
+    "color": [
+      220,
+      38,
+      38
+    ],
+    "silk_color": [
+      220,
+      38,
+      38
+    ],
+    "silk_accent": [
+      250,
+      204,
+      21
+    ],
+    "coat_color": [
+      160,
+      82,
+      45
+    ],
+    "photo": "assets/celebrities/ronaldo.png",
+    "hair_feature": "fade"
+  },
+  {
+    "id": "messi",
+    "name": "Lionel Messi",
+    "short_name": "Leo Messi",
+    "initials": "LM10",
+    "group": "football",
+    "group_name": "Football Derby",
+    "quote": "Ankara Messi 🇦🇷",
+    "archetype": "Tactician",
+    "color": [
+      56,
+      189,
+      248
+    ],
+    "silk_color": [
+      56,
+      189,
+      248
+    ],
+    "silk_accent": [
+      255,
+      255,
+      255
+    ],
+    "coat_color": [
+      230,
+      232,
+      235
+    ],
+    "photo": "assets/celebrities/messi.png",
+    "hair_feature": "beard"
+  },
+  {
+    "id": "mbappe",
+    "name": "Kylian Mbappé",
+    "short_name": "K. Mbappé",
+    "initials": "KM7",
+    "group": "football",
+    "group_name": "Football Derby",
+    "quote": "Speed Demon ⚡",
+    "archetype": "Front Runner",
+    "color": [
+      30,
+      58,
+      138
+    ],
+    "silk_color": [
+      30,
+      58,
+      138
+    ],
+    "silk_accent": [
+      239,
+      68,
+      68
+    ],
+    "coat_color": [
+      80,
+      45,
+      20
+    ],
+    "photo": "assets/celebrities/mbappe.png",
+    "hair_feature": "smile"
+  },
+  {
+    "id": "neymar",
+    "name": "Neymar Jr",
+    "short_name": "Neymar Jr",
+    "initials": "NJR",
+    "group": "football",
+    "group_name": "Football Derby",
+    "quote": "Joga Bonito 🇧🇷",
+    "archetype": "Late Rusher",
+    "color": [
+      234,
+      179,
+      8
+    ],
+    "silk_color": [
+      234,
+      179,
+      8
+    ],
+    "silk_accent": [
+      22,
+      163,
+      74
+    ],
+    "coat_color": [
+      150,
+      75,
+      25
+    ],
+    "photo": "assets/celebrities/neymar.png",
+    "hair_feature": "mohawk"
+  },
+  {
+    "id": "haaland",
+    "name": "Erling Haaland",
+    "short_name": "E. Haaland",
+    "initials": "ERL",
+    "group": "football",
+    "group_name": "Football Derby",
+    "quote": "Braam Robot 🤖",
+    "archetype": "Front Runner",
+    "color": [
+      96,
+      165,
+      250
+    ],
+    "silk_color": [
+      96,
+      165,
+      250
+    ],
+    "silk_accent": [
+      254,
+      240,
+      138
+    ],
+    "coat_color": [
+      225,
+      228,
+      230
+    ],
+    "photo": "assets/celebrities/haaland.png",
+    "hair_feature": "viking"
+  },
+  {
+    "id": "bellingham",
+    "name": "Jude Bellingham",
+    "short_name": "Bellingham",
+    "initials": "JUDE",
+    "group": "football",
+    "group_name": "Football Derby",
+    "quote": "Belligol! 🌟",
+    "archetype": "Front Runner",
+    "color": [
+      248,
+      250,
+      252
+    ],
+    "silk_color": [
+      248,
+      250,
+      252
+    ],
+    "silk_accent": [
+      217,
+      119,
+      6
+    ],
+    "coat_color": [
+      140,
+      70,
+      30
+    ],
+    "photo": "assets/celebrities/bellingham.png",
+    "hair_feature": "arms_out"
+  },
+  {
+    "id": "vinicius_jr",
+    "name": "Vinícius Jr",
+    "short_name": "Vini Jr",
+    "initials": "VINI",
+    "group": "football",
+    "group_name": "Football Derby",
+    "quote": "Baila Vini! 🕺",
+    "archetype": "Nimble Weaver",
+    "color": [
+      254,
+      240,
+      138
+    ],
+    "silk_color": [
+      254,
+      240,
+      138
+    ],
+    "silk_accent": [
+      37,
+      99,
+      235
+    ],
+    "coat_color": [
+      60,
+      35,
+      20
+    ],
+    "photo": "assets/celebrities/vinicius_jr.png",
+    "hair_feature": "smile"
+  },
+  {
+    "id": "de_bruyne",
+    "name": "Kevin De Bruyne",
+    "short_name": "De Bruyne",
+    "initials": "KDB",
+    "group": "football",
+    "group_name": "Football Derby",
+    "quote": "Let Me Talk! 🗣️",
+    "archetype": "Tactician",
+    "color": [
+      14,
+      165,
+      233
+    ],
+    "silk_color": [
+      14,
+      165,
+      233
+    ],
+    "silk_accent": [
+      249,
+      115,
+      22
+    ],
+    "coat_color": [
+      210,
+      180,
+      140
+    ],
+    "photo": "assets/celebrities/de_bruyne.png",
+    "hair_feature": "hair_part"
+  },
+  {
+    "id": "salah",
+    "name": "Mohamed Salah",
+    "short_name": "Mo Salah",
+    "initials": "SALAH",
+    "group": "football",
+    "group_name": "Football Derby",
+    "quote": "Egyptian King 👑",
+    "archetype": "Nimble Weaver",
+    "color": [
+      185,
+      28,
+      28
+    ],
+    "silk_color": [
+      185,
+      28,
+      28
+    ],
+    "silk_accent": [
+      234,
+      179,
+      8
+    ],
+    "coat_color": [
+      90,
+      50,
+      25
+    ],
+    "photo": "assets/celebrities/salah.png",
+    "hair_feature": "curls"
+  },
+  {
+    "id": "benzema",
+    "name": "Karim Benzema",
+    "short_name": "K. Benzema",
+    "initials": "KB9",
+    "group": "football",
+    "group_name": "Football Derby",
+    "quote": "Nine in Hand 🏆",
+    "archetype": "Tactician",
+    "color": [
+      241,
+      245,
+      249
+    ],
+    "silk_color": [
+      241,
+      245,
+      249
+    ],
+    "silk_accent": [
+      15,
+      23,
+      42
+    ],
+    "coat_color": [
+      120,
+      65,
+      30
+    ],
+    "photo": "assets/celebrities/benzema.png",
+    "hair_feature": "bandage"
+  },
+  {
+    "id": "modric",
+    "name": "Luka Modrić",
+    "short_name": "L. Modrić",
+    "initials": "MODRI",
+    "group": "football",
+    "group_name": "Football Derby",
+    "quote": "Midfield Maestro 🪄",
+    "archetype": "Tactician",
+    "color": [
+      225,
+      29,
+      72
+    ],
+    "silk_color": [
+      225,
+      29,
+      72
+    ],
+    "silk_accent": [
+      255,
+      255,
+      255
+    ],
+    "coat_color": [
+      195,
+      160,
+      120
+    ],
+    "photo": "assets/celebrities/modric.png",
+    "hair_feature": "headband"
+  },
+  {
+    "id": "ibrahimovic",
+    "name": "Zlatan Ibrahimović",
+    "short_name": "Zlatan",
+    "initials": "ZLAT",
+    "group": "football",
+    "group_name": "Football Derby",
+    "quote": "Zlatan Decides 🦁",
+    "archetype": "Brawler",
+    "color": [
+      185,
+      28,
+      28
+    ],
+    "silk_color": [
+      185,
+      28,
+      28
+    ],
+    "silk_accent": [
+      15,
+      23,
+      42
+    ],
+    "coat_color": [
+      50,
+      30,
+      20
+    ],
+    "photo": "assets/celebrities/ibrahimovic.png",
+    "hair_feature": "topknot"
+  },
+  {
+    "id": "ronaldinho",
+    "name": "Ronaldinho",
+    "short_name": "Ronaldinho",
+    "initials": "R10",
+    "group": "football",
+    "group_name": "Football Derby",
+    "quote": "Samba Magic 🤙",
+    "archetype": "Nimble Weaver",
+    "color": [
+      234,
+      179,
+      8
+    ],
+    "silk_color": [
+      234,
+      179,
+      8
+    ],
+    "silk_accent": [
+      37,
+      99,
+      235
+    ],
+    "coat_color": [
+      70,
+      40,
+      20
+    ],
+    "photo": "assets/celebrities/ronaldinho.png",
+    "hair_feature": "bandana"
+  },
+  {
+    "id": "zidane",
+    "name": "Zinedine Zidane",
+    "short_name": "Z. Zidane",
+    "initials": "ZZ5",
+    "group": "football",
+    "group_name": "Football Derby",
+    "quote": "Roulette Master 💥",
+    "archetype": "Tactician",
+    "color": [
+      30,
+      58,
+      138
+    ],
+    "silk_color": [
+      30,
+      58,
+      138
+    ],
+    "silk_accent": [
+      248,
+      250,
+      252
+    ],
+    "coat_color": [
+      180,
+      180,
+      180
+    ],
+    "photo": "assets/celebrities/zidane.png",
+    "hair_feature": "bald"
+  },
+  {
+    "id": "maradona",
+    "name": "Diego Maradona",
+    "short_name": "Maradona",
+    "initials": "D10S",
+    "group": "football",
+    "group_name": "Football Derby",
+    "quote": "Hand of God ✋",
+    "archetype": "Nimble Weaver",
+    "color": [
+      56,
+      189,
+      248
+    ],
+    "silk_color": [
+      56,
+      189,
+      248
+    ],
+    "silk_accent": [
+      255,
+      255,
+      255
+    ],
+    "coat_color": [
+      110,
+      60,
+      30
+    ],
+    "photo": "assets/celebrities/maradona.png",
+    "hair_feature": "wild_curls"
+  },
+  {
+    "id": "pele",
+    "name": "Pelé",
+    "short_name": "Pelé",
+    "initials": "PELE",
+    "group": "football",
+    "group_name": "Football Derby",
+    "quote": "O Rei 👑",
+    "archetype": "Front Runner",
+    "color": [
+      250,
+      204,
+      21
+    ],
+    "silk_color": [
+      250,
+      204,
+      21
+    ],
+    "silk_accent": [
+      22,
+      163,
+      74
+    ],
+    "coat_color": [
+      45,
+      25,
+      15
+    ],
+    "photo": "assets/celebrities/pele.png",
+    "hair_feature": "smile"
+  },
+  {
+    "id": "ramos",
+    "name": "Sergio Ramos",
+    "short_name": "S. Ramos",
+    "initials": "SR4",
+    "group": "football",
+    "group_name": "Football Derby",
+    "quote": "93rd Minute ⏰",
+    "archetype": "Brawler",
+    "color": [
+      239,
+      68,
+      68
+    ],
+    "silk_color": [
+      239,
+      68,
+      68
+    ],
+    "silk_accent": [
+      250,
+      204,
+      21
+    ],
+    "coat_color": [
+      130,
+      70,
+      35
+    ],
+    "photo": "assets/celebrities/ramos.png",
+    "hair_feature": "beard"
+  },
+  {
+    "id": "neuer",
+    "name": "Manuel Neuer",
+    "short_name": "M. Neuer",
+    "initials": "NEUER",
+    "group": "football",
+    "group_name": "Football Derby",
+    "quote": "Sweeper Keeper 🧤",
+    "archetype": "Front Runner",
+    "color": [
+      22,
+      163,
+      74
+    ],
+    "silk_color": [
+      22,
+      163,
+      74
+    ],
+    "silk_accent": [
+      15,
+      23,
+      42
+    ],
+    "coat_color": [
+      200,
+      200,
+      205
+    ],
+    "photo": "assets/celebrities/neuer.png",
+    "hair_feature": "gloves"
+  },
+  {
+    "id": "maguire",
+    "name": "Harry Maguire",
+    "short_name": "H. Maguire",
+    "initials": "MAGUI",
+    "group": "football",
+    "group_name": "Football Derby",
+    "quote": "No Look Defense 🗿",
+    "archetype": "Brawler",
+    "color": [
+      220,
+      38,
+      38
+    ],
+    "silk_color": [
+      220,
+      38,
+      38
+    ],
+    "silk_accent": [
+      255,
+      255,
+      255
+    ],
+    "coat_color": [
+      140,
+      75,
+      40
+    ],
+    "photo": "assets/celebrities/maguire.png",
+    "hair_feature": "slabhead"
+  },
+  {
+    "id": "mourinho",
+    "name": "José Mourinho",
+    "short_name": "J. Mourinho",
+    "initials": "JOSE",
+    "group": "football",
+    "group_name": "Football Derby",
+    "quote": "The Special One 🤫",
+    "archetype": "Tactician",
+    "color": [
+      51,
+      65,
+      85
+    ],
+    "silk_color": [
+      51,
+      65,
+      85
+    ],
+    "silk_accent": [
+      56,
+      189,
+      248
+    ],
+    "coat_color": [
+      70,
+      70,
+      75
+    ],
+    "photo": "assets/celebrities/mourinho.png",
+    "hair_feature": "overcoat"
+  },
+  {
+    "id": "mrbeast",
+    "name": "MrBeast",
+    "short_name": "MrBeast",
+    "initials": "BEAST",
+    "group": "streamers",
+    "group_name": "Content Creators",
+    "quote": "Gave Away 1M 💸",
+    "archetype": "Brawler",
+    "color": [
+      6,
+      182,
+      212
+    ],
+    "silk_color": [
+      6,
+      182,
+      212
+    ],
+    "silk_accent": [
+      236,
+      72,
+      153
+    ],
+    "coat_color": [
+      218,
+      165,
+      32
+    ],
+    "photo": "assets/celebrities/mrbeast.png",
+    "hair_feature": "smile"
+  },
+  {
+    "id": "ishowspeed",
+    "name": "IShowSpeed",
+    "short_name": "Speed",
+    "initials": "SPEED",
+    "group": "streamers",
+    "group_name": "Content Creators",
+    "quote": "SUWIII! 🐶🔥",
+    "archetype": "Nimble Weaver",
+    "color": [
+      147,
+      51,
+      234
+    ],
+    "silk_color": [
+      147,
+      51,
+      234
+    ],
+    "silk_accent": [
+      249,
+      115,
+      22
+    ],
+    "coat_color": [
+      115,
+      60,
+      30
+    ],
+    "photo": "assets/celebrities/ishowspeed.png",
+    "hair_feature": "hype"
+  },
+  {
+    "id": "kai_cenat",
+    "name": "Kai Cenat",
+    "short_name": "Kai Cenat",
+    "initials": "KAI",
+    "group": "streamers",
+    "group_name": "Content Creators",
+    "quote": "Rizz God! 💥",
+    "archetype": "Late Rusher",
+    "color": [
+      249,
+      115,
+      22
+    ],
+    "silk_color": [
+      249,
+      115,
+      22
+    ],
+    "silk_accent": [
+      15,
+      23,
+      42
+    ],
+    "coat_color": [
+      60,
+      35,
+      20
+    ],
+    "photo": "assets/celebrities/kai_cenat.png",
+    "hair_feature": "dreads"
+  },
+  {
+    "id": "pewdiepie",
+    "name": "PewDiePie",
+    "short_name": "Pewds",
+    "initials": "PEWDS",
+    "group": "streamers",
+    "group_name": "Content Creators",
+    "quote": "Brofist 👊",
+    "archetype": "Nimble Weaver",
+    "color": [
+      190,
+      18,
+      60
+    ],
+    "silk_color": [
+      190,
+      18,
+      60
+    ],
+    "silk_accent": [
+      24,
+      24,
+      27
+    ],
+    "coat_color": [
+      140,
+      70,
+      30
+    ],
+    "photo": "assets/celebrities/pewdiepie.png",
+    "hair_feature": "headphones"
+  },
+  {
+    "id": "xqc",
+    "name": "xQc",
+    "short_name": "xQc",
+    "initials": "XQC",
+    "group": "streamers",
+    "group_name": "Content Creators",
+    "quote": "JUICED UP! 🥤",
+    "archetype": "Front Runner",
+    "color": [
+      234,
+      179,
+      8
+    ],
+    "silk_color": [
+      234,
+      179,
+      8
+    ],
+    "silk_accent": [
+      147,
+      51,
+      234
+    ],
+    "coat_color": [
+      230,
+      230,
+      235
+    ],
+    "photo": "assets/celebrities/xqc.png",
+    "hair_feature": "blonde_hair"
+  },
+  {
+    "id": "pokimane",
+    "name": "Pokimane",
+    "short_name": "Pokimane",
+    "initials": "POKI",
+    "group": "streamers",
+    "group_name": "Content Creators",
+    "quote": "Stay Hydrated 🌸",
+    "archetype": "Tactician",
+    "color": [
+      244,
+      114,
+      182
+    ],
+    "silk_color": [
+      244,
+      114,
+      182
+    ],
+    "silk_accent": [
+      192,
+      132,
+      252
+    ],
+    "coat_color": [
+      160,
+      110,
+      70
+    ],
+    "photo": "assets/celebrities/pokimane.png",
+    "hair_feature": "headset"
+  },
+  {
+    "id": "ninja",
+    "name": "Ninja",
+    "short_name": "Ninja",
+    "initials": "NINJA",
+    "group": "streamers",
+    "group_name": "Content Creators",
+    "quote": "Not Even Close! 🥷",
+    "archetype": "Front Runner",
+    "color": [
+      14,
+      165,
+      233
+    ],
+    "silk_color": [
+      14,
+      165,
+      233
+    ],
+    "silk_accent": [
+      250,
+      204,
+      21
+    ],
+    "coat_color": [
+      100,
+      60,
+      30
+    ],
+    "photo": "assets/celebrities/ninja.png",
+    "hair_feature": "blue_hair"
+  },
+  {
+    "id": "logan_paul",
+    "name": "Logan Paul",
+    "short_name": "Logan Paul",
+    "initials": "LOGAN",
+    "group": "streamers",
+    "group_name": "Content Creators",
+    "quote": "Prime Time! ⚡",
+    "archetype": "Brawler",
+    "color": [
+      239,
+      68,
+      68
+    ],
+    "silk_color": [
+      239,
+      68,
+      68
+    ],
+    "silk_accent": [
+      234,
+      179,
+      8
+    ],
+    "coat_color": [
+      170,
+      100,
+      50
+    ],
+    "photo": "assets/celebrities/logan_paul.png",
+    "hair_feature": "sunglasses"
+  },
+  {
+    "id": "ksi",
+    "name": "KSI",
+    "short_name": "KSI",
+    "initials": "KSI",
+    "group": "streamers",
+    "group_name": "Content Creators",
+    "quote": "Lord KSI! 🥊",
+    "archetype": "Brawler",
+    "color": [
+      30,
+      58,
+      138
+    ],
+    "silk_color": [
+      30,
+      58,
+      138
+    ],
+    "silk_accent": [
+      147,
+      51,
+      234
+    ],
+    "coat_color": [
+      40,
+      25,
+      15
+    ],
+    "photo": "assets/celebrities/ksi.png",
+    "hair_feature": "bandana"
+  },
+  {
+    "id": "adin_ross",
+    "name": "Adin Ross",
+    "short_name": "Adin Ross",
+    "initials": "ADIN",
+    "group": "streamers",
+    "group_name": "Content Creators",
+    "quote": "W Streamer! 🎲",
+    "archetype": "Late Rusher",
+    "color": [
+      30,
+      41,
+      59
+    ],
+    "silk_color": [
+      30,
+      41,
+      59
+    ],
+    "silk_accent": [
+      34,
+      197,
+      94
+    ],
+    "coat_color": [
+      130,
+      80,
+      45
+    ],
+    "photo": "assets/celebrities/adin_ross.png",
+    "hair_feature": "cap"
+  },
+  {
+    "id": "asmongold",
+    "name": "Asmongold",
+    "short_name": "Asmongold",
+    "initials": "ASMON",
+    "group": "streamers",
+    "group_name": "Content Creators",
+    "quote": "There It Is Dude 🗡️",
+    "archetype": "Tactician",
+    "color": [
+      120,
+      53,
+      15
+    ],
+    "silk_color": [
+      120,
+      53,
+      15
+    ],
+    "silk_accent": [
+      245,
+      158,
+      11
+    ],
+    "coat_color": [
+      150,
+      120,
+      80
+    ],
+    "photo": "assets/celebrities/asmongold.png",
+    "hair_feature": "balding"
+  },
+  {
+    "id": "dream",
+    "name": "Dream",
+    "short_name": "Dream",
+    "initials": "DREAM",
+    "group": "streamers",
+    "group_name": "Content Creators",
+    "quote": "Speedrun Luck 🟩",
+    "archetype": "Nimble Weaver",
+    "color": [
+      34,
+      197,
+      94
+    ],
+    "silk_color": [
+      34,
+      197,
+      94
+    ],
+    "silk_accent": [
+      255,
+      255,
+      255
+    ],
+    "coat_color": [
+      220,
+      220,
+      220
+    ],
+    "photo": "assets/celebrities/dream.png",
+    "hair_feature": "mask"
+  },
+  {
+    "id": "hasanabi",
+    "name": "HasanAbi",
+    "short_name": "HasanAbi",
+    "initials": "HASAN",
+    "group": "streamers",
+    "group_name": "Content Creators",
+    "quote": "He Can't Keep Away! 📺",
+    "archetype": "Brawler",
+    "color": [
+      185,
+      28,
+      28
+    ],
+    "silk_color": [
+      185,
+      28,
+      28
+    ],
+    "silk_accent": [
+      39,
+      39,
+      42
+    ],
+    "coat_color": [
+      100,
+      55,
+      25
+    ],
+    "photo": "assets/celebrities/hasanabi.png",
+    "hair_feature": "hair_pompadour"
+  },
+  {
+    "id": "valkyrae",
+    "name": "Valkyrae",
+    "short_name": "Valkyrae",
+    "initials": "RAE",
+    "group": "streamers",
+    "group_name": "Content Creators",
+    "quote": "100 Thieves Queen ⚔️",
+    "archetype": "Nimble Weaver",
+    "color": [
+      220,
+      38,
+      38
+    ],
+    "silk_color": [
+      220,
+      38,
+      38
+    ],
+    "silk_accent": [
+      255,
+      255,
+      255
+    ],
+    "coat_color": [
+      60,
+      35,
+      20
+    ],
+    "photo": "assets/celebrities/valkyrae.png",
+    "hair_feature": "earrings"
+  },
+  {
+    "id": "shroud",
+    "name": "Shroud",
+    "short_name": "Shroud",
+    "initials": "SHROUD",
+    "group": "streamers",
+    "group_name": "Content Creators",
+    "quote": "Human Aimlock 🎯",
+    "archetype": "Tactician",
+    "color": [
+      71,
+      85,
+      105
+    ],
+    "silk_color": [
+      71,
+      85,
+      105
+    ],
+    "silk_accent": [
+      56,
+      189,
+      248
+    ],
+    "coat_color": [
+      140,
+      90,
+      50
+    ],
+    "photo": "assets/celebrities/shroud.png",
+    "hair_feature": "headset"
+  },
+  {
+    "id": "ludwig",
+    "name": "Ludwig",
+    "short_name": "Ludwig",
+    "initials": "LUD",
+    "group": "streamers",
+    "group_name": "Content Creators",
+    "quote": "Boys! ♟️",
+    "archetype": "Tactician",
+    "color": [
+      29,
+      78,
+      216
+    ],
+    "silk_color": [
+      29,
+      78,
+      216
+    ],
+    "silk_accent": [
+      254,
+      240,
+      138
+    ],
+    "coat_color": [
+      175,
+      125,
+      75
+    ],
+    "photo": "assets/celebrities/ludwig.png",
+    "hair_feature": "hair_swoop"
+  },
+  {
+    "id": "moistcrone",
+    "name": "MoistCrone",
+    "short_name": "MoistCrone",
+    "initials": "MOIST",
+    "group": "streamers",
+    "group_name": "Content Creators",
+    "quote": "Yeah Baby! 🧔",
+    "archetype": "Front Runner",
+    "color": [
+      248,
+      250,
+      252
+    ],
+    "silk_color": [
+      248,
+      250,
+      252
+    ],
+    "silk_accent": [
+      15,
+      23,
+      42
+    ],
+    "coat_color": [
+      50,
+      30,
+      20
+    ],
+    "photo": "assets/celebrities/moistcrone.png",
+    "hair_feature": "long_hair_beard"
+  },
+  {
+    "id": "hasbulla",
+    "name": "Hasbulla",
+    "short_name": "Hasbulla",
+    "initials": "HASBI",
+    "group": "streamers",
+    "group_name": "Content Creators",
+    "quote": "Mini Khabib 🥊",
+    "archetype": "Nimble Weaver",
+    "color": [
+      22,
+      163,
+      74
+    ],
+    "silk_color": [
+      22,
+      163,
+      74
+    ],
+    "silk_accent": [
+      250,
+      204,
+      21
+    ],
+    "coat_color": [
+      165,
+      105,
+      55
+    ],
+    "photo": "assets/celebrities/hasbulla.png",
+    "hair_feature": "smirk"
+  },
+  {
+    "id": "giga_chad",
+    "name": "Giga Chad",
+    "short_name": "Giga Chad",
+    "initials": "CHAD",
+    "group": "streamers",
+    "group_name": "Content Creators",
+    "quote": "Average Enjoyer 🗿",
+    "archetype": "Front Runner",
+    "color": [
+      39,
+      39,
+      42
+    ],
+    "silk_color": [
+      39,
+      39,
+      42
+    ],
+    "silk_accent": [
+      217,
+      119,
+      6
+    ],
+    "coat_color": [
+      30,
+      30,
+      30
+    ],
+    "photo": "assets/celebrities/giga_chad.png",
+    "hair_feature": "jawline"
+  },
+  {
+    "id": "elon_musk",
+    "name": "Elon Musk",
+    "short_name": "Elon Musk",
+    "initials": "ELON",
+    "group": "tech_business",
+    "group_name": "Tech Titans",
+    "quote": "To The Moon 🚀",
+    "archetype": "Late Rusher",
+    "color": [
+      15,
+      23,
+      42
+    ],
+    "silk_color": [
+      15,
+      23,
+      42
+    ],
+    "silk_accent": [
+      34,
+      197,
+      94
+    ],
+    "coat_color": [
+      28,
+      28,
+      32
+    ],
+    "photo": "assets/celebrities/elon_musk.png",
+    "hair_feature": "glasses"
+  },
+  {
+    "id": "zuckerberg",
+    "name": "Mark Zuckerberg",
+    "short_name": "Zuck",
+    "initials": "ZUCK",
+    "group": "tech_business",
+    "group_name": "Tech Titans",
+    "quote": "Meta Mode 🕶️",
+    "archetype": "Tactician",
+    "color": [
+      37,
+      99,
+      235
+    ],
+    "silk_color": [
+      37,
+      99,
+      235
+    ],
+    "silk_accent": [
+      14,
+      165,
+      233
+    ],
+    "coat_color": [
+      200,
+      205,
+      210
+    ],
+    "photo": "assets/celebrities/zuckerberg.png",
+    "hair_feature": "vr"
+  },
+  {
+    "id": "bill_gates",
+    "name": "Bill Gates",
+    "short_name": "Bill Gates",
+    "initials": "GATES",
+    "group": "tech_business",
+    "group_name": "Tech Titans",
+    "quote": "Windows XP 💻",
+    "archetype": "Tactician",
+    "color": [
+      16,
+      185,
+      129
+    ],
+    "silk_color": [
+      16,
+      185,
+      129
+    ],
+    "silk_accent": [
+      255,
+      255,
+      255
+    ],
+    "coat_color": [
+      210,
+      180,
+      140
+    ],
+    "photo": "assets/celebrities/bill_gates.png",
+    "hair_feature": "specs"
+  },
+  {
+    "id": "steve_jobs",
+    "name": "Steve Jobs",
+    "short_name": "Steve Jobs",
+    "initials": "JOBS",
+    "group": "tech_business",
+    "group_name": "Tech Titans",
+    "quote": "One More Thing 🍏",
+    "archetype": "Front Runner",
+    "color": [
+      24,
+      24,
+      27
+    ],
+    "silk_color": [
+      24,
+      24,
+      27
+    ],
+    "silk_accent": [
+      203,
+      213,
+      225
+    ],
+    "coat_color": [
+      130,
+      75,
+      40
+    ],
+    "photo": "assets/celebrities/steve_jobs.png",
+    "hair_feature": "turtleneck"
+  },
+  {
+    "id": "jeff_bezos",
+    "name": "Jeff Bezos",
+    "short_name": "J. Bezos",
+    "initials": "BEZOS",
+    "group": "tech_business",
+    "group_name": "Tech Titans",
+    "quote": "Prime Delivery 📦",
+    "archetype": "Brawler",
+    "color": [
+      245,
+      158,
+      11
+    ],
+    "silk_color": [
+      245,
+      158,
+      11
+    ],
+    "silk_accent": [
+      15,
+      23,
+      42
+    ],
+    "coat_color": [
+      40,
+      30,
+      25
+    ],
+    "photo": "assets/celebrities/jeff_bezos.png",
+    "hair_feature": "bald_sunglasses"
+  },
+  {
+    "id": "warren_buffett",
+    "name": "Warren Buffett",
+    "short_name": "Buffett",
+    "initials": "BUFF",
+    "group": "tech_business",
+    "group_name": "Tech Titans",
+    "quote": "Compound Growth 📈",
+    "archetype": "Tactician",
+    "color": [
+      21,
+      128,
+      61
+    ],
+    "silk_color": [
+      21,
+      128,
+      61
+    ],
+    "silk_accent": [
+      234,
+      179,
+      8
+    ],
+    "coat_color": [
+      190,
+      150,
+      100
+    ],
+    "photo": "assets/celebrities/warren_buffett.png",
+    "hair_feature": "specs"
+  },
+  {
+    "id": "jensen_huang",
+    "name": "Jensen Huang",
+    "short_name": "Jensen H.",
+    "initials": "NVDA",
+    "group": "tech_business",
+    "group_name": "Tech Titans",
+    "quote": "More You Buy Save 🧥",
+    "archetype": "Front Runner",
+    "color": [
+      34,
+      197,
+      94
+    ],
+    "silk_color": [
+      34,
+      197,
+      94
+    ],
+    "silk_accent": [
+      15,
+      23,
+      42
+    ],
+    "coat_color": [
+      35,
+      35,
+      40
+    ],
+    "photo": "assets/celebrities/jensen_huang.png",
+    "hair_feature": "leather_jacket"
+  },
+  {
+    "id": "sam_altman",
+    "name": "Sam Altman",
+    "short_name": "S. Altman",
+    "initials": "GPT",
+    "group": "tech_business",
+    "group_name": "Tech Titans",
+    "quote": "AGI Achieved 🤖",
+    "archetype": "Tactician",
+    "color": [
+      13,
+      148,
+      136
+    ],
+    "silk_color": [
+      13,
+      148,
+      136
+    ],
+    "silk_accent": [
+      248,
+      250,
+      252
+    ],
+    "coat_color": [
+      150,
+      95,
+      55
+    ],
+    "photo": "assets/celebrities/sam_altman.png",
+    "hair_feature": "curls"
+  },
+  {
+    "id": "tim_cook",
+    "name": "Tim Cook",
+    "short_name": "Tim Cook",
+    "initials": "COOK",
+    "group": "tech_business",
+    "group_name": "Tech Titans",
+    "quote": "Good Morning! ☀️",
+    "archetype": "Tactician",
+    "color": [
+      100,
+      116,
+      139
+    ],
+    "silk_color": [
+      100,
+      116,
+      139
+    ],
+    "silk_accent": [
+      241,
+      245,
+      249
+    ],
+    "coat_color": [
+      180,
+      180,
+      190
+    ],
+    "photo": "assets/celebrities/tim_cook.png",
+    "hair_feature": "glasses"
+  },
+  {
+    "id": "sundar_pichai",
+    "name": "Sundar Pichai",
+    "short_name": "S. Pichai",
+    "initials": "GOOG",
+    "group": "tech_business",
+    "group_name": "Tech Titans",
+    "quote": "AI First 🌐",
+    "archetype": "Tactician",
+    "color": [
+      66,
+      133,
+      244
+    ],
+    "silk_color": [
+      66,
+      133,
+      244
+    ],
+    "silk_accent": [
+      234,
+      67,
+      53
+    ],
+    "coat_color": [
+      90,
+      50,
+      25
+    ],
+    "photo": "assets/celebrities/sundar_pichai.png",
+    "hair_feature": "glasses_beard"
+  },
+  {
+    "id": "jack_ma",
+    "name": "Jack Ma",
+    "short_name": "Jack Ma",
+    "initials": "ALIB",
+    "group": "tech_business",
+    "group_name": "Tech Titans",
+    "quote": "Never Give Up 🛒",
+    "archetype": "Nimble Weaver",
+    "color": [
+      249,
+      115,
+      22
+    ],
+    "silk_color": [
+      249,
+      115,
+      22
+    ],
+    "silk_accent": [
+      250,
+      204,
+      21
+    ],
+    "coat_color": [
+      120,
+      70,
+      35
+    ],
+    "photo": "assets/celebrities/jack_ma.png",
+    "hair_feature": "smile"
+  },
+  {
+    "id": "larry_page",
+    "name": "Larry Page",
+    "short_name": "Larry Page",
+    "initials": "PAGE",
+    "group": "tech_business",
+    "group_name": "Tech Titans",
+    "quote": "PageRank #1 🔍",
+    "archetype": "Tactician",
+    "color": [
+      59,
+      130,
+      246
+    ],
+    "silk_color": [
+      59,
+      130,
+      246
+    ],
+    "silk_accent": [
+      255,
+      255,
+      255
+    ],
+    "coat_color": [
+      160,
+      110,
+      60
+    ],
+    "photo": "assets/celebrities/larry_page.png",
+    "hair_feature": "hair_part"
+  },
+  {
+    "id": "sergey_brin",
+    "name": "Sergey Brin",
+    "short_name": "S. Brin",
+    "initials": "BRIN",
+    "group": "tech_business",
+    "group_name": "Tech Titans",
+    "quote": "Don't Be Evil 👓",
+    "archetype": "Nimble Weaver",
+    "color": [
+      239,
+      68,
+      68
+    ],
+    "silk_color": [
+      239,
+      68,
+      68
+    ],
+    "silk_accent": [
+      234,
+      179,
+      8
+    ],
+    "coat_color": [
+      140,
+      85,
+      45
+    ],
+    "photo": "assets/celebrities/sergey_brin.png",
+    "hair_feature": "google_glass"
+  },
+  {
+    "id": "peter_thiel",
+    "name": "Peter Thiel",
+    "short_name": "P. Thiel",
+    "initials": "THIEL",
+    "group": "tech_business",
+    "group_name": "Tech Titans",
+    "quote": "Zero to One ♟️",
+    "archetype": "Late Rusher",
+    "color": [
+      30,
+      58,
+      138
+    ],
+    "silk_color": [
+      30,
+      58,
+      138
+    ],
+    "silk_accent": [
+      245,
+      158,
+      11
+    ],
+    "coat_color": [
+      110,
+      60,
+      30
+    ],
+    "photo": "assets/celebrities/peter_thiel.png",
+    "hair_feature": "hair_suit"
+  },
+  {
+    "id": "satoshi_nakamoto",
+    "name": "Satoshi Nakamoto",
+    "short_name": "Satoshi",
+    "initials": "BTC",
+    "group": "tech_business",
+    "group_name": "Tech Titans",
+    "quote": "21 Million Cap 🪙",
+    "archetype": "Nimble Weaver",
+    "color": [
+      247,
+      147,
+      26
+    ],
+    "silk_color": [
+      247,
+      147,
+      26
+    ],
+    "silk_accent": [
+      255,
+      255,
+      255
+    ],
+    "coat_color": [
+      25,
+      25,
+      30
+    ],
+    "photo": "assets/celebrities/satoshi_nakamoto.png",
+    "hair_feature": "crypto_hoodie"
+  },
+  {
+    "id": "gabe_newell",
+    "name": "Gabe Newell",
+    "short_name": "Gaben",
+    "initials": "GABEN",
+    "group": "tech_business",
+    "group_name": "Tech Titans",
+    "quote": "Steam Sale -90% 🎮",
+    "archetype": "Brawler",
+    "color": [
+      27,
+      40,
+      56
+    ],
+    "silk_color": [
+      27,
+      40,
+      56
+    ],
+    "silk_accent": [
+      102,
+      192,
+      244
+    ],
+    "coat_color": [
+      135,
+      80,
+      40
+    ],
+    "photo": "assets/celebrities/gabe_newell.png",
+    "hair_feature": "beard_glasses"
+  },
+  {
+    "id": "vitalik_buterin",
+    "name": "Vitalik Buterin",
+    "short_name": "Vitalik",
+    "initials": "ETH",
+    "group": "tech_business",
+    "group_name": "Tech Titans",
+    "quote": "Gas Fees Low 🦄",
+    "archetype": "Nimble Weaver",
+    "color": [
+      98,
+      126,
+      234
+    ],
+    "silk_color": [
+      98,
+      126,
+      234
+    ],
+    "silk_accent": [
+      255,
+      255,
+      255
+    ],
+    "coat_color": [
+      210,
+      210,
+      220
+    ],
+    "photo": "assets/celebrities/vitalik_buterin.png",
+    "hair_feature": "unicorn_tee"
+  },
+  {
+    "id": "bernard_arnault",
+    "name": "Bernard Arnault",
+    "short_name": "B. Arnault",
+    "initials": "LVMH",
+    "group": "tech_business",
+    "group_name": "Tech Titans",
+    "quote": "Pure Luxury 💎",
+    "archetype": "Tactician",
+    "color": [
+      88,
+      28,
+      135
+    ],
+    "silk_color": [
+      88,
+      28,
+      135
+    ],
+    "silk_accent": [
+      234,
+      179,
+      8
+    ],
+    "coat_color": [
+      170,
+      130,
+      90
+    ],
+    "photo": "assets/celebrities/bernard_arnault.png",
+    "hair_feature": "silver_hair"
+  },
+  {
+    "id": "larry_ellison",
+    "name": "Larry Ellison",
+    "short_name": "L. Ellison",
+    "initials": "ORCL",
+    "group": "tech_business",
+    "group_name": "Tech Titans",
+    "quote": "Oracle Cloud ⛵",
+    "archetype": "Front Runner",
+    "color": [
+      220,
+      38,
+      38
+    ],
+    "silk_color": [
+      220,
+      38,
+      38
+    ],
+    "silk_accent": [
+      255,
+      255,
+      255
+    ],
+    "coat_color": [
+      150,
+      90,
+      45
+    ],
+    "photo": "assets/celebrities/larry_ellison.png",
+    "hair_feature": "goatee"
+  },
+  {
+    "id": "richard_branson",
+    "name": "Richard Branson",
+    "short_name": "R. Branson",
+    "initials": "VRGN",
+    "group": "tech_business",
+    "group_name": "Tech Titans",
+    "quote": "Virgin Galactic 🚀",
+    "archetype": "Front Runner",
+    "color": [
+      225,
+      29,
+      72
+    ],
+    "silk_color": [
+      225,
+      29,
+      72
+    ],
+    "silk_accent": [
+      226,
+      232,
+      240
+    ],
+    "coat_color": [
+      220,
+      190,
+      150
+    ],
+    "photo": "assets/celebrities/richard_branson.png",
+    "hair_feature": "blonde_beard"
+  },
+  {
+    "id": "trump",
+    "name": "Donald Trump",
+    "short_name": "D. Trump",
+    "initials": "TRUMP",
+    "group": "world_leaders",
+    "group_name": "World Leaders",
+    "quote": "Huge Winner 🦅",
+    "archetype": "Brawler",
+    "color": [
+      29,
+      78,
+      216
+    ],
+    "silk_color": [
+      29,
+      78,
+      216
+    ],
+    "silk_accent": [
+      220,
+      38,
+      38
+    ],
+    "coat_color": [
+      180,
+      120,
+      60
+    ],
+    "photo": "assets/celebrities/trump.png",
+    "hair_feature": "quiff"
+  },
+  {
+    "id": "joe_biden",
+    "name": "Joe Biden",
+    "short_name": "J. Biden",
+    "initials": "BIDEN",
+    "group": "world_leaders",
+    "group_name": "World Leaders",
+    "quote": "No Malarkey 🍦",
+    "archetype": "Tactician",
+    "color": [
+      30,
+      58,
+      138
+    ],
+    "silk_color": [
+      30,
+      58,
+      138
+    ],
+    "silk_accent": [
+      56,
+      189,
+      248
+    ],
+    "coat_color": [
+      215,
+      215,
+      225
+    ],
+    "photo": "assets/celebrities/joe_biden.png",
+    "hair_feature": "aviators"
+  },
+  {
+    "id": "barack_obama",
+    "name": "Barack Obama",
+    "short_name": "B. Obama",
+    "initials": "OBAMA",
+    "group": "world_leaders",
+    "group_name": "World Leaders",
+    "quote": "Yes We Can 🎙️",
+    "archetype": "Tactician",
+    "color": [
+      37,
+      99,
+      235
+    ],
+    "silk_color": [
+      37,
+      99,
+      235
+    ],
+    "silk_accent": [
+      255,
+      255,
+      255
+    ],
+    "coat_color": [
+      110,
+      65,
+      35
+    ],
+    "photo": "assets/celebrities/barack_obama.png",
+    "hair_feature": "smile"
+  },
+  {
+    "id": "vladimir_putin",
+    "name": "Vladimir Putin",
+    "short_name": "V. Putin",
+    "initials": "PUTIN",
+    "group": "world_leaders",
+    "group_name": "World Leaders",
+    "quote": "Bear Rider 🐻",
+    "archetype": "Brawler",
+    "color": [
+      220,
+      38,
+      38
+    ],
+    "silk_color": [
+      220,
+      38,
+      38
+    ],
+    "silk_accent": [
+      30,
+      58,
+      138
+    ],
+    "coat_color": [
+      45,
+      45,
+      50
+    ],
+    "photo": "assets/celebrities/vladimir_putin.png",
+    "hair_feature": "stoic"
+  },
+  {
+    "id": "kim_jong_un",
+    "name": "Kim Jong Un",
+    "short_name": "Kim J. Un",
+    "initials": "KIM",
+    "group": "world_leaders",
+    "group_name": "World Leaders",
+    "quote": "Supreme Leader 🚀",
+    "archetype": "Brawler",
+    "color": [
+      54,
+      83,
+      20
+    ],
+    "silk_color": [
+      54,
+      83,
+      20
+    ],
+    "silk_accent": [
+      220,
+      38,
+      38
+    ],
+    "coat_color": [
+      50,
+      35,
+      25
+    ],
+    "photo": "assets/celebrities/kim_jong_un.png",
+    "hair_feature": "flattop"
+  },
+  {
+    "id": "emmanuel_macron",
+    "name": "Emmanuel Macron",
+    "short_name": "E. Macron",
+    "initials": "MACRON",
+    "group": "world_leaders",
+    "group_name": "World Leaders",
+    "quote": "En Marche! 🥖",
+    "archetype": "Nimble Weaver",
+    "color": [
+      30,
+      58,
+      138
+    ],
+    "silk_color": [
+      30,
+      58,
+      138
+    ],
+    "silk_accent": [
+      234,
+      179,
+      8
+    ],
+    "coat_color": [
+      140,
+      85,
+      45
+    ],
+    "photo": "assets/celebrities/emmanuel_macron.png",
+    "hair_feature": "suit"
+  },
+  {
+    "id": "boris_johnson",
+    "name": "Boris Johnson",
+    "short_name": "B. Johnson",
+    "initials": "BORIS",
+    "group": "world_leaders",
+    "group_name": "World Leaders",
+    "quote": "Getting It Done 🇬🇧",
+    "archetype": "Late Rusher",
+    "color": [
+      185,
+      28,
+      28
+    ],
+    "silk_color": [
+      185,
+      28,
+      28
+    ],
+    "silk_accent": [
+      30,
+      58,
+      138
+    ],
+    "coat_color": [
+      230,
+      210,
+      160
+    ],
+    "photo": "assets/celebrities/boris_johnson.png",
+    "hair_feature": "messy_hair"
+  },
+  {
+    "id": "justin_trudeau",
+    "name": "Justin Trudeau",
+    "short_name": "J. Trudeau",
+    "initials": "JUSTIN",
+    "group": "world_leaders",
+    "group_name": "World Leaders",
+    "quote": "Maple Power 🍁",
+    "archetype": "Nimble Weaver",
+    "color": [
+      220,
+      38,
+      38
+    ],
+    "silk_color": [
+      220,
+      38,
+      38
+    ],
+    "silk_accent": [
+      255,
+      255,
+      255
+    ],
+    "coat_color": [
+      130,
+      75,
+      40
+    ],
+    "photo": "assets/celebrities/justin_trudeau.png",
+    "hair_feature": "hair_part"
+  },
+  {
+    "id": "narendra_modi",
+    "name": "Narendra Modi",
+    "short_name": "N. Modi",
+    "initials": "MODI",
+    "group": "world_leaders",
+    "group_name": "World Leaders",
+    "quote": "Modi Mumkin Hai 🪷",
+    "archetype": "Tactician",
+    "color": [
+      249,
+      115,
+      22
+    ],
+    "silk_color": [
+      249,
+      115,
+      22
+    ],
+    "silk_accent": [
+      22,
+      163,
+      74
+    ],
+    "coat_color": [
+      170,
+      140,
+      100
+    ],
+    "photo": "assets/celebrities/narendra_modi.png",
+    "hair_feature": "white_beard"
+  },
+  {
+    "id": "xi_jinping",
+    "name": "Xi Jinping",
+    "short_name": "Xi Jinping",
+    "initials": "XI",
+    "group": "world_leaders",
+    "group_name": "World Leaders",
+    "quote": "Red Dragon 🐉",
+    "archetype": "Tactician",
+    "color": [
+      220,
+      38,
+      38
+    ],
+    "silk_color": [
+      220,
+      38,
+      38
+    ],
+    "silk_accent": [
+      250,
+      204,
+      21
+    ],
+    "coat_color": [
+      60,
+      40,
+      25
+    ],
+    "photo": "assets/celebrities/xi_jinping.png",
+    "hair_feature": "suit"
+  },
+  {
+    "id": "george_w_bush",
+    "name": "George W. Bush",
+    "short_name": "G.W. Bush",
+    "initials": "BUSH",
+    "group": "world_leaders",
+    "group_name": "World Leaders",
+    "quote": "Mission Won 🤠",
+    "archetype": "Brawler",
+    "color": [
+      37,
+      99,
+      235
+    ],
+    "silk_color": [
+      37,
+      99,
+      235
+    ],
+    "silk_accent": [
+      220,
+      38,
+      38
+    ],
+    "coat_color": [
+      160,
+      100,
+      50
+    ],
+    "photo": "assets/celebrities/george_w_bush.png",
+    "hair_feature": "cowboy_hat"
+  },
+  {
+    "id": "angela_merkel",
+    "name": "Angela Merkel",
+    "short_name": "A. Merkel",
+    "initials": "MERKEL",
+    "group": "world_leaders",
+    "group_name": "World Leaders",
+    "quote": "Mutti Power 🇩🇪",
+    "archetype": "Tactician",
+    "color": [
+      24,
+      24,
+      27
+    ],
+    "silk_color": [
+      24,
+      24,
+      27
+    ],
+    "silk_accent": [
+      234,
+      179,
+      8
+    ],
+    "coat_color": [
+      185,
+      170,
+      140
+    ],
+    "photo": "assets/celebrities/angela_merkel.png",
+    "hair_feature": "diamond_hands"
+  },
+  {
+    "id": "queen_elizabeth",
+    "name": "Queen Elizabeth",
+    "short_name": "The Queen",
+    "initials": "ERII",
+    "group": "world_leaders",
+    "group_name": "World Leaders",
+    "quote": "God Save Queen 👑",
+    "archetype": "Front Runner",
+    "color": [
+      109,
+      40,
+      217
+    ],
+    "silk_color": [
+      109,
+      40,
+      217
+    ],
+    "silk_accent": [
+      250,
+      204,
+      21
+    ],
+    "coat_color": [
+      235,
+      235,
+      240
+    ],
+    "photo": "assets/celebrities/queen_elizabeth.png",
+    "hair_feature": "queen_crown"
+  },
+  {
+    "id": "bernie_sanders",
+    "name": "Bernie Sanders",
+    "short_name": "B. Sanders",
+    "initials": "BERNIE",
+    "group": "world_leaders",
+    "group_name": "World Leaders",
+    "quote": "Once Again Asking 🧤",
+    "archetype": "Late Rusher",
+    "color": [
+      2,
+      132,
+      199
+    ],
+    "silk_color": [
+      2,
+      132,
+      199
+    ],
+    "silk_accent": [
+      255,
+      255,
+      255
+    ],
+    "coat_color": [
+      190,
+      180,
+      170
+    ],
+    "photo": "assets/celebrities/bernie_sanders.png",
+    "hair_feature": "mittens"
+  },
+  {
+    "id": "nelson_mandela",
+    "name": "Nelson Mandela",
+    "short_name": "N. Mandela",
+    "initials": "MADIBA",
+    "group": "world_leaders",
+    "group_name": "World Leaders",
+    "quote": "Invictus Spirit 🕊️",
+    "archetype": "Tactician",
+    "color": [
+      234,
+      179,
+      8
+    ],
+    "silk_color": [
+      234,
+      179,
+      8
+    ],
+    "silk_accent": [
+      22,
+      163,
+      74
+    ],
+    "coat_color": [
+      70,
+      45,
+      25
+    ],
+    "photo": "assets/celebrities/nelson_mandela.png",
+    "hair_feature": "madiba_shirt"
+  },
+  {
+    "id": "winston_churchill",
+    "name": "Winston Churchill",
+    "short_name": "Churchill",
+    "initials": "VFORV",
+    "group": "world_leaders",
+    "group_name": "World Leaders",
+    "quote": "Never Surrender 🎩",
+    "archetype": "Brawler",
+    "color": [
+      15,
+      23,
+      42
+    ],
+    "silk_color": [
+      15,
+      23,
+      42
+    ],
+    "silk_accent": [
+      185,
+      28,
+      28
+    ],
+    "coat_color": [
+      120,
+      70,
+      35
+    ],
+    "photo": "assets/celebrities/winston_churchill.png",
+    "hair_feature": "bowler_cigar"
+  },
+  {
+    "id": "abraham_lincoln",
+    "name": "Abraham Lincoln",
+    "short_name": "A. Lincoln",
+    "initials": "ABE",
+    "group": "world_leaders",
+    "group_name": "World Leaders",
+    "quote": "Four Score! 🎩",
+    "archetype": "Front Runner",
+    "color": [
+      24,
+      24,
+      27
+    ],
+    "silk_color": [
+      24,
+      24,
+      27
+    ],
+    "silk_accent": [
+      255,
+      255,
+      255
+    ],
+    "coat_color": [
+      60,
+      40,
+      25
+    ],
+    "photo": "assets/celebrities/abraham_lincoln.png",
+    "hair_feature": "stovepipe_hat"
+  },
+  {
+    "id": "julius_caesar",
+    "name": "Julius Caesar",
+    "short_name": "J. Caesar",
+    "initials": "VICI",
+    "group": "world_leaders",
+    "group_name": "World Leaders",
+    "quote": "Veni Vidi Vici 🏛️",
+    "archetype": "Front Runner",
+    "color": [
+      190,
+      18,
+      60
+    ],
+    "silk_color": [
+      190,
+      18,
+      60
+    ],
+    "silk_accent": [
+      234,
+      179,
+      8
+    ],
+    "coat_color": [
+      210,
+      200,
+      180
+    ],
+    "photo": "assets/celebrities/julius_caesar.png",
+    "hair_feature": "laurel_wreath"
+  },
+  {
+    "id": "napoleon",
+    "name": "Napoleon Bonaparte",
+    "short_name": "Napoleon",
+    "initials": "N1",
+    "group": "world_leaders",
+    "group_name": "World Leaders",
+    "quote": "Not French ⚔️",
+    "archetype": "Tactician",
+    "color": [
+      30,
+      58,
+      138
+    ],
+    "silk_color": [
+      30,
+      58,
+      138
+    ],
+    "silk_accent": [
+      234,
+      179,
+      8
+    ],
+    "coat_color": [
+      220,
+      220,
+      225
+    ],
+    "photo": "assets/celebrities/napoleon.png",
+    "hair_feature": "bicorne_hat"
+  },
+  {
+    "id": "che_guevara",
+    "name": "Che Guevara",
+    "short_name": "Che",
+    "initials": "CHE",
+    "group": "world_leaders",
+    "group_name": "World Leaders",
+    "quote": "Hasta Victoria ⭐️",
+    "archetype": "Brawler",
+    "color": [
+      63,
+      98,
+      18
+    ],
+    "silk_color": [
+      63,
+      98,
+      18
+    ],
+    "silk_accent": [
+      220,
+      38,
+      38
+    ],
+    "coat_color": [
+      80,
+      50,
+      25
+    ],
+    "photo": "assets/celebrities/che_guevara.png",
+    "hair_feature": "beret_star"
+  },
+  {
+    "id": "the_rock",
+    "name": "The Rock",
+    "short_name": "The Rock",
+    "initials": "ROCK",
+    "group": "pop_culture",
+    "group_name": "Pop Culture Icons",
+    "quote": "The Eyebrow 🤨",
+    "archetype": "Brawler",
+    "color": [
+      71,
+      85,
+      105
+    ],
+    "silk_color": [
+      71,
+      85,
+      105
+    ],
+    "silk_accent": [
+      234,
+      179,
+      8
+    ],
+    "coat_color": [
+      139,
+      69,
+      19
+    ],
+    "photo": "assets/celebrities/the_rock.png",
+    "hair_feature": "eyebrow"
+  },
+  {
+    "id": "drake",
+    "name": "Drake",
+    "short_name": "Drake",
+    "initials": "DRAKE",
+    "group": "pop_culture",
+    "group_name": "Pop Culture Icons",
+    "quote": "From The Bottom 🦉",
+    "archetype": "Tactician",
+    "color": [
+      24,
+      24,
+      27
+    ],
+    "silk_color": [
+      24,
+      24,
+      27
+    ],
+    "silk_accent": [
+      234,
+      179,
+      8
+    ],
+    "coat_color": [
+      90,
+      55,
+      30
+    ],
+    "photo": "assets/celebrities/drake.png",
+    "hair_feature": "beard_fade"
+  },
+  {
+    "id": "kanye_west",
+    "name": "Kanye West",
+    "short_name": "Ye",
+    "initials": "YE",
+    "group": "pop_culture",
+    "group_name": "Pop Culture Icons",
+    "quote": "I Am A God 🐻",
+    "archetype": "Front Runner",
+    "color": [
+      217,
+      119,
+      6
+    ],
+    "silk_color": [
+      217,
+      119,
+      6
+    ],
+    "silk_accent": [
+      39,
+      39,
+      42
+    ],
+    "coat_color": [
+      60,
+      35,
+      20
+    ],
+    "photo": "assets/celebrities/kanye_west.png",
+    "hair_feature": "shutter_shades"
+  },
+  {
+    "id": "snoop_dogg",
+    "name": "Snoop Dogg",
+    "short_name": "Snoop Dogg",
+    "initials": "SNOOP",
+    "group": "pop_culture",
+    "group_name": "Pop Culture Icons",
+    "quote": "Drop It Like Hot 🌿",
+    "archetype": "Nimble Weaver",
+    "color": [
+      22,
+      163,
+      74
+    ],
+    "silk_color": [
+      22,
+      163,
+      74
+    ],
+    "silk_accent": [
+      250,
+      204,
+      21
+    ],
+    "coat_color": [
+      50,
+      30,
+      15
+    ],
+    "photo": "assets/celebrities/snoop_dogg.png",
+    "hair_feature": "braids_shades"
+  },
+  {
+    "id": "eminem",
+    "name": "Eminem",
+    "short_name": "Eminem",
+    "initials": "SLIM",
+    "group": "pop_culture",
+    "group_name": "Pop Culture Icons",
+    "quote": "Mom's Spaghetti 🍝",
+    "archetype": "Front Runner",
+    "color": [
+      100,
+      116,
+      139
+    ],
+    "silk_color": [
+      100,
+      116,
+      139
+    ],
+    "silk_accent": [
+      220,
+      38,
+      38
+    ],
+    "coat_color": [
+      150,
+      90,
+      45
+    ],
+    "photo": "assets/celebrities/eminem.png",
+    "hair_feature": "bleach_blonde"
+  },
+  {
+    "id": "michael_jackson",
+    "name": "Michael Jackson",
+    "short_name": "M. Jackson",
+    "initials": "MJ",
+    "group": "pop_culture",
+    "group_name": "Pop Culture Icons",
+    "quote": "Hee-Hee! 🕺",
+    "archetype": "Nimble Weaver",
+    "color": [
+      248,
+      250,
+      252
+    ],
+    "silk_color": [
+      248,
+      250,
+      252
+    ],
+    "silk_accent": [
+      220,
+      38,
+      38
+    ],
+    "coat_color": [
+      30,
+      30,
+      30
+    ],
+    "photo": "assets/celebrities/michael_jackson.png",
+    "hair_feature": "fedora"
+  },
+  {
+    "id": "keanu_reeves",
+    "name": "Keanu Reeves",
+    "short_name": "K. Reeves",
+    "initials": "WICK",
+    "group": "pop_culture",
+    "group_name": "Pop Culture Icons",
+    "quote": "Breathtaking! 🕶️",
+    "archetype": "Tactician",
+    "color": [
+      15,
+      23,
+      42
+    ],
+    "silk_color": [
+      15,
+      23,
+      42
+    ],
+    "silk_accent": [
+      56,
+      189,
+      248
+    ],
+    "coat_color": [
+      45,
+      35,
+      30
+    ],
+    "photo": "assets/celebrities/keanu_reeves.png",
+    "hair_feature": "long_hair_suit"
+  },
+  {
+    "id": "leonardo_dicaprio",
+    "name": "Leonardo DiCaprio",
+    "short_name": "DiCaprio",
+    "initials": "LEO",
+    "group": "pop_culture",
+    "group_name": "Pop Culture Icons",
+    "quote": "Cheers! 🥂",
+    "archetype": "Tactician",
+    "color": [
+      24,
+      24,
+      27
+    ],
+    "silk_color": [
+      24,
+      24,
+      27
+    ],
+    "silk_accent": [
+      234,
+      179,
+      8
+    ],
+    "coat_color": [
+      160,
+      100,
+      50
+    ],
+    "photo": "assets/celebrities/leonardo_dicaprio.png",
+    "hair_feature": "tuxedo"
+  },
+  {
+    "id": "tom_cruise",
+    "name": "Tom Cruise",
+    "short_name": "Tom Cruise",
+    "initials": "CRUISE",
+    "group": "pop_culture",
+    "group_name": "Pop Culture Icons",
+    "quote": "Mission Done 🪂",
+    "archetype": "Front Runner",
+    "color": [
+      30,
+      58,
+      138
+    ],
+    "silk_color": [
+      30,
+      58,
+      138
+    ],
+    "silk_accent": [
+      203,
+      213,
+      225
+    ],
+    "coat_color": [
+      120,
+      70,
+      35
+    ],
+    "photo": "assets/celebrities/tom_cruise.png",
+    "hair_feature": "aviators"
+  },
+  {
+    "id": "will_smith",
+    "name": "Will Smith",
+    "short_name": "Will Smith",
+    "initials": "WILL",
+    "group": "pop_culture",
+    "group_name": "Pop Culture Icons",
+    "quote": "Keep My Name! 🌴",
+    "archetype": "Brawler",
+    "color": [
+      13,
+      148,
+      136
+    ],
+    "silk_color": [
+      13,
+      148,
+      136
+    ],
+    "silk_accent": [
+      236,
+      72,
+      153
+    ],
+    "coat_color": [
+      70,
+      40,
+      20
+    ],
+    "photo": "assets/celebrities/will_smith.png",
+    "hair_feature": "fresh_prince"
+  },
+  {
+    "id": "goku",
+    "name": "Son Goku",
+    "short_name": "Goku",
+    "initials": "GOKU",
+    "group": "pop_culture",
+    "group_name": "Pop Culture Icons",
+    "quote": "Kamehameha! 💥",
+    "archetype": "Front Runner",
+    "color": [
+      249,
+      115,
+      22
+    ],
+    "silk_color": [
+      249,
+      115,
+      22
+    ],
+    "silk_accent": [
+      30,
+      58,
+      138
+    ],
+    "coat_color": [
+      170,
+      100,
+      40
+    ],
+    "photo": "assets/celebrities/goku.png",
+    "hair_feature": "saiyan_hair"
+  },
+  {
+    "id": "naruto",
+    "name": "Naruto Uzumaki",
+    "short_name": "Naruto",
+    "initials": "NRT",
+    "group": "pop_culture",
+    "group_name": "Pop Culture Icons",
+    "quote": "Believe It! 🍥",
+    "archetype": "Late Rusher",
+    "color": [
+      249,
+      115,
+      22
+    ],
+    "silk_color": [
+      249,
+      115,
+      22
+    ],
+    "silk_accent": [
+      24,
+      24,
+      27
+    ],
+    "coat_color": [
+      220,
+      180,
+      120
+    ],
+    "photo": "assets/celebrities/naruto.png",
+    "hair_feature": "ninja_headband"
+  },
+  {
+    "id": "luffy",
+    "name": "Monkey D. Luffy",
+    "short_name": "Luffy",
+    "initials": "LUFFY",
+    "group": "pop_culture",
+    "group_name": "Pop Culture Icons",
+    "quote": "King of Pirates! 🍖",
+    "archetype": "Brawler",
+    "color": [
+      220,
+      38,
+      38
+    ],
+    "silk_color": [
+      220,
+      38,
+      38
+    ],
+    "silk_accent": [
+      250,
+      204,
+      21
+    ],
+    "coat_color": [
+      130,
+      75,
+      35
+    ],
+    "photo": "assets/celebrities/luffy.png",
+    "hair_feature": "straw_hat"
+  },
+  {
+    "id": "walter_white",
+    "name": "Walter White",
+    "short_name": "Heisenberg",
+    "initials": "HEISEN",
+    "group": "pop_culture",
+    "group_name": "Pop Culture Icons",
+    "quote": "I Am The Danger 🧪",
+    "archetype": "Tactician",
+    "color": [
+      234,
+      179,
+      8
+    ],
+    "silk_color": [
+      234,
+      179,
+      8
+    ],
+    "silk_accent": [
+      14,
+      165,
+      233
+    ],
+    "coat_color": [
+      180,
+      140,
+      80
+    ],
+    "photo": "assets/celebrities/walter_white.png",
+    "hair_feature": "porkpie_hat"
+  },
+  {
+    "id": "spongebob",
+    "name": "SpongeBob",
+    "short_name": "SpongeBob",
+    "initials": "SPONGE",
+    "group": "pop_culture",
+    "group_name": "Pop Culture Icons",
+    "quote": "I'm Ready! 🍍",
+    "archetype": "Nimble Weaver",
+    "color": [
+      250,
+      204,
+      21
+    ],
+    "silk_color": [
+      250,
+      204,
+      21
+    ],
+    "silk_accent": [
+      120,
+      53,
+      15
+    ],
+    "coat_color": [
+      240,
+      220,
+      100
+    ],
+    "photo": "assets/celebrities/spongebob.png",
+    "hair_feature": "sponge_face"
+  },
+  {
+    "id": "shrek",
+    "name": "Shrek",
+    "short_name": "Shrek",
+    "initials": "SHREK",
+    "group": "pop_culture",
+    "group_name": "Pop Culture Icons",
+    "quote": "Out Of My Swamp! 🧅",
+    "archetype": "Brawler",
+    "color": [
+      101,
+      163,
+      13
+    ],
+    "silk_color": [
+      101,
+      163,
+      13
+    ],
+    "silk_accent": [
+      120,
+      53,
+      15
+    ],
+    "coat_color": [
+      80,
+      110,
+      40
+    ],
+    "photo": "assets/celebrities/shrek.png",
+    "hair_feature": "ogre_ears"
+  },
+  {
+    "id": "spider_man",
+    "name": "Spider-Man",
+    "short_name": "Spider-Man",
+    "initials": "SPIDEY",
+    "group": "pop_culture",
+    "group_name": "Pop Culture Icons",
+    "quote": "Spidey Senses! 🕷️",
+    "archetype": "Nimble Weaver",
+    "color": [
+      220,
+      38,
+      38
+    ],
+    "silk_color": [
+      220,
+      38,
+      38
+    ],
+    "silk_accent": [
+      30,
+      58,
+      138
+    ],
+    "coat_color": [
+      160,
+      40,
+      40
+    ],
+    "photo": "assets/celebrities/spider_man.png",
+    "hair_feature": "spider_eyes"
+  },
+  {
+    "id": "batman",
+    "name": "Batman",
+    "short_name": "Batman",
+    "initials": "BATS",
+    "group": "pop_culture",
+    "group_name": "Pop Culture Icons",
+    "quote": "I Am Vengeance 🦇",
+    "archetype": "Tactician",
+    "color": [
+      15,
+      23,
+      42
+    ],
+    "silk_color": [
+      15,
+      23,
+      42
+    ],
+    "silk_accent": [
+      234,
+      179,
+      8
+    ],
+    "coat_color": [
+      20,
+      20,
+      25
+    ],
+    "photo": "assets/celebrities/batman.png",
+    "hair_feature": "bat_cowl"
+  },
+  {
+    "id": "taylor_swift",
+    "name": "Taylor Swift",
+    "short_name": "T. Swift",
+    "initials": "SWIFT",
+    "group": "pop_culture",
+    "group_name": "Pop Culture Icons",
+    "quote": "Shake It Off! 🪩",
+    "archetype": "Front Runner",
+    "color": [
+      192,
+      132,
+      252
+    ],
+    "silk_color": [
+      192,
+      132,
+      252
+    ],
+    "silk_accent": [
+      244,
+      114,
+      182
+    ],
+    "coat_color": [
+      235,
+      220,
+      200
+    ],
+    "photo": "assets/celebrities/taylor_swift.png",
+    "hair_feature": "red_lips"
+  },
+  {
+    "id": "billie_eilish",
+    "name": "Billie Eilish",
+    "short_name": "B. Eilish",
+    "initials": "EILISH",
+    "group": "pop_culture",
+    "group_name": "Pop Culture Icons",
+    "quote": "Bad Guy 🟢",
+    "archetype": "Nimble Weaver",
+    "color": [
+      34,
+      197,
+      94
+    ],
+    "silk_color": [
+      34,
+      197,
+      94
+    ],
+    "silk_accent": [
+      15,
+      23,
+      42
+    ],
+    "coat_color": [
+      60,
+      40,
+      50
+    ],
+    "photo": "assets/celebrities/billie_eilish.png",
+    "hair_feature": "green_roots"
+  }
+]
